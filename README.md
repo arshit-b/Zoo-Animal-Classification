@@ -15,4 +15,4 @@ To run this project, you need the python jupiter notebook.
 python packages: numpy, pandas, matplotlib, os, seaborn, scikit-learn, also pydotplus for decision tree graph.
 
 ## Result
-Random Forest model have best accuracy score and 0.97 of cross validation.
+The Random Forest model has the best accuracy score and 0.97 of cross validation.
