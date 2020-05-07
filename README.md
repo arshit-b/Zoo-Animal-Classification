@@ -16,3 +16,6 @@ python packages: numpy, pandas, matplotlib, os, seaborn, scikit-learn, also pydo
 
 ## Result
 The Random Forest model has the best accuracy score and 0.97 of cross validation.
+
+## Video link
+https://drive.google.com/drive/folders/1kaP3XCaoWgKiZBExzwEHLWaUMdBh4oFM?usp=sharing
