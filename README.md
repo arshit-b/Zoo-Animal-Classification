@@ -1,7 +1,7 @@
 # **Zoo Animal Classification project**
 
 ## Introduction
-This project contains the steps to analyzing the characteristics of animals and the classifications of animals in 7 different categories. To classify animals in 7 different categories we need the best machine learning model which can classify animals efficiently. In this project we compared 5 different machine learning models to see which model has the best accuracy score Here used K-Nearest Neighbors, Support Vector Machine, Decision tree, Random Forest and Perceptron models. Trained them with the same data set and compared their accuracy.
+This project contains the steps to analyze the characteristics of animals and the classifications of animals in 7 different categories. To classify animals in 7 different categories we need the best machine learning model which can classify animals efficiently. In this project we compared 5 different machine learning models to see which model has the best accuracy score Here used K-Nearest Neighbors, Support Vector Machine, Decision tree, Random Forest and Perceptron models. Trained them with the same data set and compared their accuracy.
 
 ## Data:
 zoo.csv and class.csv is used as a training data.
